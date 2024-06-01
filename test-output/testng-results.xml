@@ -2,33 +2,27 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-06-01T19:47:27 BDT" name="Default suite" finished-at="2024-06-01T19:47:54 BDT" duration-ms="27347">
+  <suite started-at="2024-06-02T00:36:53 BDT" name="Default suite" finished-at="2024-06-02T00:37:19 BDT" duration-ms="26067">
     <groups>
     </groups>
-    <test started-at="2024-06-01T19:47:27 BDT" name="Default test" finished-at="2024-06-01T19:47:54 BDT" duration-ms="27347">
+    <test started-at="2024-06-02T00:36:53 BDT" name="Default test" finished-at="2024-06-02T00:37:19 BDT" duration-ms="26067">
       <class name="bd.com.akhtar.testcases.FirstScenario">
-        <test-method is-config="true" signature="setUpTest()[pri:0, instance:bd.com.akhtar.testcases.FirstScenario@31ea9581]" started-at="2024-06-01T19:47:27 BDT" name="setUpTest" finished-at="2024-06-01T19:47:40 BDT" duration-ms="13376" status="PASS">
+        <test-method is-config="true" signature="setUpTest()[pri:0, instance:bd.com.akhtar.testcases.FirstScenario@31ea9581]" started-at="2024-06-02T00:36:53 BDT" name="setUpTest" finished-at="2024-06-02T00:37:03 BDT" duration-ms="9564" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpTest -->
-        <test-method signature="testAddProductsToCart()[pri:0, instance:bd.com.akhtar.testcases.FirstScenario@31ea9581]" started-at="2024-06-01T19:47:41 BDT" name="testAddProductsToCart" description="Scenario: Add products to the shopping cart
+        <test-method signature="testAddProductsToCart()[pri:0, instance:bd.com.akhtar.testcases.FirstScenario@31ea9581]" started-at="2024-06-02T00:37:03 BDT" name="testAddProductsToCart" description="Scenario: Add products to the shopping cart
 Given: User is on the home page
-When: User hovers over &#039;Living&#039;
-And: User clicks &#039;Sofa&#039;
-And: User clicks &#039;Conrad Sofa&#039;
-And: User scrolls down to &#039;Add to Cart&#039;
-And: User clicks &#039;PREDICTED DELIVERY TIME&#039;
-And: User selects &#039;Dhaka&#039; as the location
-And: User selects &#039;Uttara&#039; as the nearest showroom
-And: User selects &#039;PU Rexine&#039; as the material
-And: User selects &#039;Standard Size&#039;
-And: User sets the quantity to &#039;2&#039;
+When: User hovers over &#039;Living&#039;, clicks &#039;Sofa&#039;, clicks &#039;Conrad Sofa&#039;
+And: User scrolls down to &#039;Add to Cart&#039; and clicks &#039;PREDICTED DELIVERY TIME&#039;
+And: User selects their location
+And: User fills in data about product details
 Then: User clicks &#039;Add to Cart&#039;
-And: User clicks &#039;View Cart&#039;" finished-at="2024-06-01T19:47:54 BDT" duration-ms="13276" status="PASS">
+" finished-at="2024-06-02T00:37:19 BDT" duration-ms="15832" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testAddProductsToCart -->
-        <test-method is-config="true" signature="tearDownTest()[pri:0, instance:bd.com.akhtar.testcases.FirstScenario@31ea9581]" started-at="2024-06-01T19:47:54 BDT" name="tearDownTest" finished-at="2024-06-01T19:47:54 BDT" duration-ms="580" status="PASS">
+        <test-method is-config="true" signature="tearDownTest()[pri:0, instance:bd.com.akhtar.testcases.FirstScenario@31ea9581]" started-at="2024-06-02T00:37:19 BDT" name="tearDownTest" finished-at="2024-06-02T00:37:19 BDT" duration-ms="469" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownTest -->
