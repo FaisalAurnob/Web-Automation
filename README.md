@@ -18,6 +18,9 @@
 ## Video of Test Execution
 ### https://drive.google.com/file/d/1TR1Pu510HQ7BatCv0mSQDGkSMP3EE7YV/view?usp=sharing
 
+## TestCase Sheet:
+### https://docs.google.com/spreadsheets/d/1vdcBsr0Tc0ocffT4UjZy1o5Aodpdw-sj/edit?usp=sharing&ouid=109771310999525581646&rtpof=true&sd=true
+
 ## Target/Goals:
 
 - Scenario: Add products to the shopping cart
