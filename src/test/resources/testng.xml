@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Akhtar Automation Suite">
+  <test name="First Scenario Test">
+    <classes>
+      <class name="bd.com.akhtar.testcases.FirstScenario"/>
+    </classes>
+  </test>
+</suite>
